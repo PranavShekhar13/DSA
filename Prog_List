@@ -1,0 +1,23 @@
+1)//Create and initialize an array then using pointer to array find minimum and maximum element out of array
+
+
+2)//Allocate memory for n number of integers and find max and min using pointer
+
+3)//Using calloc reserve 2 arrays of 2-D type and perform addition
+
+4)/*Create a structure student with Roll no & marks
+	Access it using:	1)Dot operator
+				2)Pointer to structure
+				3)Arrow operator
+*/
+
+5)//Polynomial addition
+
+6)//Polynomial multiplication
+
+7)Sparse Matrix Addition
+
+8)Singly Linked List
+
+9)Reversal of Single Linked List
+
